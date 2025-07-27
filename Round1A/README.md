@@ -29,7 +29,7 @@ Or if working independently:
 
 cd round1a
 
-🔧 2. Prerequisites
+###🔧 2. Prerequisites
 Make sure the following are installed:
 
 Python 3.10+
@@ -38,12 +38,14 @@ pip
 
 Docker (for containerized usage)
 
-📦 3. Install Python Dependencies (Optional)
+###📦 3. Install Python Dependencies (Optional)
 For local runs without Docker:
 
 
 pip install -r requirements.txt
-📁 4. Prepare Input Files
+
+
+###📁 4. Prepare Input Files
 Place your PDFs inside the app/input/ folder:
 
 
@@ -51,18 +53,23 @@ app/
 ├── input/
 │   ├── sample1.pdf
 │   └── sample2.pdf
-└── output/         # Output JSONs will appear here
-🧪 5. Run Locally (Without Docker)
+└── output/         
+# Output JSONs will appear here
+
+###🧪 5. Run Locally (Without Docker)
+
 After installing dependencies:
 
-
 python app/extract_outline.py
+
 Output files like sample1.json will be saved inside app/output/.
 
-🐳 6. Run with Docker (Recommended)
+###🐳 6. Run with Docker (Recommended)
+
 Step 1: Build Docker Image
 
 docker build --platform linux/amd64 -t pdfoutliner:v1 .
+
 Step 2: Run Docker Container
 🐧 macOS/Linux:
 
@@ -70,13 +77,16 @@ docker run --rm \
 -v "$(pwd)/app/input:/app/input" \
 -v "$(pwd)/app/output:/app/output" \
 --network none pdfoutliner:v1
-🪟 Windows CMD:
+
+###🪟 Windows CMD:
 
 docker run --rm ^
 -v "%cd%\app\input:/app/input" ^
 -v "%cd%\app\output:/app/output" ^
 --network none pdfoutliner:v1
-📤 Output Format
+
+
+###📤 Output Format
 Each input .pdf generates an output .json with this format:
 
 json
@@ -89,24 +99,35 @@ json
     { "level": "H3", "text": "History of AI", "page": 3 }
   ]
 }
+
 Output appears in:
 
-
 app/output/sample1.json
-✅ Summary
-Feature	Status
-Offline Execution	✅ Supported
-CPU-Only	✅ Supported
-≤ 200MB Model Size	✅ Compliant
-Docker Compatible (amd64)	✅ Yes
-Internet/API Free	✅ Enforced
 
-📦 Tech Stack
+###✅ Summary
+
+---
+
+Feature                                             Status
+
+Offline Execution                                 Supported
+
+CPU-Only                                          Supported
+
+<= 200MB Model Size                               Complaint
+
+Docker Compatible                                 Yes
+
+Internet/API Free                                 Enforced
+
+
+###📦 Tech Stack
+
 PyMuPDF – PDF parsing and font property extraction
 
 json, os, re – File handling and text cleaning
 
-🧠 Heading Detection Strategy
+###🧠 Heading Detection Strategy
 Largest font on first page → Title
 
 Fonts ≥17 → H1
@@ -117,6 +138,6 @@ Fonts ≥13 → H3
 
 Supports heading keyword detection in 10 languages using simple matching
 
-👤 Author
+###👤 Author
 Developed as part of Adobe Hackathon – Round 1A
 Team: ["Unstoppable"]
