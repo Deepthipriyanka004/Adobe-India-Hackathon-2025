@@ -1,0 +1,2676 @@
+{
+  "metadata": {
+    "input_documents": [
+      "South_of_France_Cities.pdf"
+    ],
+    "persona": "travel_agent",
+    "job_to_be_done": "Find relevant travel content for customers visiting France",
+    "processing_timestamp": "2025-07-27 04:14:17"
+  },
+  "extracted_sections": [
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "Comprehensive Guide to Major Cities in the South o",
+      "importance_rank": 195,
+      "page_number": 1
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "The South of France, known for its stunning landsc",
+      "importance_rank": 21,
+      "page_number": 1
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "cultural heritage, is home to some of the most bea",
+      "importance_rank": 61,
+      "page_number": 1
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "country",
+      "importance_rank": 2,
+      "page_number": 1
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "detailing their history, key attractions, cultural",
+      "importance_rank": 20,
+      "page_number": 1
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "you're planning a visit or simply want to learn mo",
+      "importance_rank": 205,
+      "page_number": 1
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "will oﬀer valuable insights into each city's charm",
+      "importance_rank": 239,
+      "page_number": 1
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "Overview of the Region",
+      "importance_rank": 182,
+      "page_number": 2
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "The South of France, or \"Le Midi,\" encompasses the",
+      "importance_rank": 13,
+      "page_number": 2
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "Occitanie, and parts of Nouvelle-Aquitaine",
+      "importance_rank": 1,
+      "page_number": 2
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "from the sun-drenched beaches of the French Rivier",
+      "importance_rank": 241,
+      "page_number": 2
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "the rugged Pyrenees mountains",
+      "importance_rank": 206,
+      "page_number": 2
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "mild winters, making it a year-round destination",
+      "importance_rank": 235,
+      "page_number": 2
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "cuisine, wines, and vibrant cultural scene",
+      "importance_rank": 22,
+      "page_number": 2
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "Best Time to Visit : The best time to visit the So",
+      "importance_rank": 4,
+      "page_number": 2
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "to June) and fall (September to October) when the ",
+      "importance_rank": 9,
+      "page_number": 2
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "Transportation : The region is well-connected by a",
+      "importance_rank": 154,
+      "page_number": 2
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "buses, and flights",
+      "importance_rank": 133,
+      "page_number": 2
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "Language : While French is the oﬃcial language, En",
+      "importance_rank": 15,
+      "page_number": 2
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "areas",
+      "importance_rank": 230,
+      "page_number": 2
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "Marseille: The Oldest City in France",
+      "importance_rank": 68,
+      "page_number": 3
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "Marseille, founded by Greek sailors around 600 BC,",
+      "importance_rank": 160,
+      "page_number": 3
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "location on the Mediterranean coast made it a vita",
+      "importance_rank": 43,
+      "page_number": 3
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "rich cultural heritage is reflected in its diverse",
+      "importance_rank": 138,
+      "page_number": 3
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "centuries, Marseille has been influenced by variou",
+      "importance_rank": 123,
+      "page_number": 3
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "North African, making it a melting pot of traditio",
+      "importance_rank": 207,
+      "page_number": 3
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "Old Port (Vieux-Port) : The heart of Marseille, th",
+      "importance_rank": 103,
+      "page_number": 3
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "for over 2,600 years",
+      "importance_rank": 143,
+      "page_number": 3
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "Basilica of Notre-Dame de la Garde : This iconic b",
+      "importance_rank": 114,
+      "page_number": 3
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "overlooking the city, oﬀers panoramic views of Mar",
+      "importance_rank": 98,
+      "page_number": 3
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "Built in the 19th century, it is a symbol of the c",
+      "importance_rank": 145,
+      "page_number": 3
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "MuCEM (Museum of European and Mediterranean Civili",
+      "importance_rank": 184,
+      "page_number": 3
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "museum explores the cultural history of the Medite",
+      "importance_rank": 212,
+      "page_number": 3
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "exhibits and interactive displays",
+      "importance_rank": 77,
+      "page_number": 3
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "Le Panier : The oldest district in Marseille, Le P",
+      "importance_rank": 228,
+      "page_number": 3
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "colorful buildings, and historic landmarks",
+      "importance_rank": 194,
+      "page_number": 3
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "and enjoy its vibrant culture",
+      "importance_rank": 189,
+      "page_number": 3
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "Boat Trip to the Calanques : Take a boat trip to t",
+      "importance_rank": 213,
+      "page_number": 3
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "limestone cliﬀs and coves along the coast",
+      "importance_rank": 49,
+      "page_number": 3
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "Fish Market at the Old Port : Visit the fish marke",
+      "importance_rank": 55,
+      "page_number": 3
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "local seafood culture",
+      "importance_rank": 221,
+      "page_number": 3
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "Street Art in Cours Julien : Explore the vibrant s",
+      "importance_rank": 150,
+      "page_number": 3
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "Marseille is known for its vibrant arts scene, wit",
+      "importance_rank": 52,
+      "page_number": 3
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "venues",
+      "importance_rank": 95,
+      "page_number": 3
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "Marseille, which celebrates contemporary dance, th",
+      "importance_rank": 10,
+      "page_number": 3
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "also a highlight, with dishes like bouillabaisse (",
+      "importance_rank": 18,
+      "page_number": 4
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "flavored aperitif) being local favorites",
+      "importance_rank": 197,
+      "page_number": 4
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "Nice: The Jewel of the French Riviera",
+      "importance_rank": 28,
+      "page_number": 5
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "Nice, located on the French Riviera, has been a po",
+      "importance_rank": 89,
+      "page_number": 5
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "dates back to the ancient Greeks, who founded the ",
+      "importance_rank": 129,
+      "page_number": 5
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "Roman colony and has since evolved into a glamorou",
+      "importance_rank": 74,
+      "page_number": 5
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "became a favorite winter retreat for European aris",
+      "importance_rank": 87,
+      "page_number": 5
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "development as a luxurious destination",
+      "importance_rank": 134,
+      "page_number": 5
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "Promenade des Anglais : This famous seaside promen",
+      "importance_rank": 3,
+      "page_number": 5
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "perfect for a leisurely stroll along the coast",
+      "importance_rank": 5,
+      "page_number": 5
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "Mediterranean and is lined with cafes and hotels",
+      "importance_rank": 6,
+      "page_number": 5
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "Castle Hill (Colline du Château) : This hilltop pa",
+      "importance_rank": 7,
+      "page_number": 5
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "the Mediterranean",
+      "importance_rank": 8,
+      "page_number": 5
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "Old Town (Vieux Nice) : The historic center of Nic",
+      "importance_rank": 11,
+      "page_number": 5
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "baroque churches, and bustling markets",
+      "importance_rank": 12,
+      "page_number": 5
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "you can find fresh produce, flowers, and local del",
+      "importance_rank": 14,
+      "page_number": 5
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "Matisse Museum : Dedicated to the works of Henri M",
+      "importance_rank": 16,
+      "page_number": 5
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "in Nice, this museum features a comprehensive coll",
+      "importance_rank": 17,
+      "page_number": 5
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "Russian Orthodox Cathedral : Visit the stunning Ru",
+      "importance_rank": 19,
+      "page_number": 5
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "unique architectural gem in Nice",
+      "importance_rank": 23,
+      "page_number": 5
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "Marc Chagall National Museum : Explore the works o",
+      "importance_rank": 24,
+      "page_number": 5
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "Parc Phoenix : Discover the botanical wonders at P",
+      "importance_rank": 25,
+      "page_number": 5
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "Nice is renowned for its vibrant cultural scene, w",
+      "importance_rank": 26,
+      "page_number": 5
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "theaters",
+      "importance_rank": 27,
+      "page_number": 5
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "in the world",
+      "importance_rank": 29,
+      "page_number": 5
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "lovers from around the globe",
+      "importance_rank": 30,
+      "page_number": 6
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "and socca (a chickpea flour pancake) being local s",
+      "importance_rank": 31,
+      "page_number": 6
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "Avignon: The City of Popes",
+      "importance_rank": 32,
+      "page_number": 7
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "Avignon, located on the banks of the Rhône River, ",
+      "importance_rank": 33,
+      "page_number": 7
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "papacy in the 14th century",
+      "importance_rank": 34,
+      "page_number": 7
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "lasting legacy of impressive architecture and cult",
+      "importance_rank": 35,
+      "page_number": 7
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "Roman times, and it has been a significant religio",
+      "importance_rank": 36,
+      "page_number": 7
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "Palais des Papes : This massive Gothic palace was ",
+      "importance_rank": 37,
+      "page_number": 7
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "their stay in Avignon",
+      "importance_rank": 38,
+      "page_number": 7
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "Pont Saint-Bénézet (Pont d'Avignon) : This famous ",
+      "importance_rank": 39,
+      "page_number": 7
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "\"Sur le Pont d'Avignon,\" was built in the 12th cen",
+      "importance_rank": 40,
+      "page_number": 7
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "remain, it is a UNESCO World Heritage site",
+      "importance_rank": 41,
+      "page_number": 7
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "Avignon Cathedral : Located next to the Palais des",
+      "importance_rank": 42,
+      "page_number": 7
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "dates back to the 12th century and features a gild",
+      "importance_rank": 44,
+      "page_number": 7
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "Place de l'Horloge : The main square in Avignon, t",
+      "importance_rank": 45,
+      "page_number": 7
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "cafes, restaurants, and historic buildings, includ",
+      "importance_rank": 46,
+      "page_number": 7
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "Opéra Grand Avignon : Attend a performance at the ",
+      "importance_rank": 47,
+      "page_number": 7
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "Arts Scene : Explore the city's vibrant arts scene",
+      "importance_rank": 48,
+      "page_number": 7
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "Avignon is famous for its annual Festival d'Avigno",
+      "importance_rank": 50,
+      "page_number": 7
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "important contemporary performing arts events in t",
+      "importance_rank": 51,
+      "page_number": 7
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "dance, and music performances in various historic ",
+      "importance_rank": 53,
+      "page_number": 7
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "cuisine is also notable, with local specialties su",
+      "importance_rank": 54,
+      "page_number": 7
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "surrounding vineyards",
+      "importance_rank": 56,
+      "page_number": 7
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "Aix-en-Provence: A City of Art and Culture",
+      "importance_rank": 57,
+      "page_number": 8
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "Aix-en-Provence, founded by the Romans in 123 BC, ",
+      "importance_rank": 58,
+      "page_number": 8
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "vibrant cultural scene, and association with the p",
+      "importance_rank": 59,
+      "page_number": 8
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "reflected in its beautiful buildings and lively at",
+      "importance_rank": 60,
+      "page_number": 8
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "of art and learning for centuries, attracting arti",
+      "importance_rank": 62,
+      "page_number": 8
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "Cours Mirabeau: This grand boulevard, lined with p",
+      "importance_rank": 63,
+      "page_number": 8
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "the heart of Aix-en-Provence",
+      "importance_rank": 64,
+      "page_number": 8
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "Saint-Sauveur Cathedral: This cathedral, built bet",
+      "importance_rank": 65,
+      "page_number": 8
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "features a mix of architectural styles, including ",
+      "importance_rank": 66,
+      "page_number": 8
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "known for its beautiful cloister and triptych by N",
+      "importance_rank": 67,
+      "page_number": 8
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "Hôtel de Ville: The town hall of Aix-en-Provence, ",
+      "importance_rank": 69,
+      "page_number": 8
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "building with a beautiful clock tower and an ornat",
+      "importance_rank": 70,
+      "page_number": 8
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "Hôtel de Ville is a lively spot, often hosting mar",
+      "importance_rank": 71,
+      "page_number": 8
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "Atelier Cézanne: The studio of Paul Cézanne, one o",
+      "importance_rank": 72,
+      "page_number": 8
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "associated with Aix-en-Provence, is preserved as a",
+      "importance_rank": 73,
+      "page_number": 8
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "Cézanne created many of his masterpieces and gain ",
+      "importance_rank": 75,
+      "page_number": 8
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "Walking Tour: Take a walking tour of sites related",
+      "importance_rank": 76,
+      "page_number": 8
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "des Peintres and the Bibémus Quarry",
+      "importance_rank": 78,
+      "page_number": 8
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "Local Markets: Visit the city's famous markets, su",
+      "importance_rank": 79,
+      "page_number": 8
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "l'Hôtel de Ville or the food market at Place Riche",
+      "importance_rank": 80,
+      "page_number": 8
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "Aix-en-Provence is known for its vibrant arts scen",
+      "importance_rank": 81,
+      "page_number": 8
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "music venues",
+      "importance_rank": 82,
+      "page_number": 8
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "en-Provence, which features opera and classical mu",
+      "importance_rank": 83,
+      "page_number": 8
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "cuisine is also a highlight, with local specialtie",
+      "importance_rank": 84,
+      "page_number": 8
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "and Provençal dishes made with fresh, local ingred",
+      "importance_rank": 85,
+      "page_number": 8
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "Toulouse: The Pink City",
+      "importance_rank": 86,
+      "page_number": 9
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "Toulouse, known as \"La Ville Rose\" (The Pink City)",
+      "importance_rank": 88,
+      "page_number": 9
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "is a vibrant city with a rich history",
+      "importance_rank": 90,
+      "page_number": 9
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "later became a hub of the aerospace industry",
+      "importance_rank": 91,
+      "page_number": 9
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "culture for centuries, with a prestigious universi",
+      "importance_rank": 92,
+      "page_number": 9
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "Basilica of Saint-Sernin: This Romanesque basilica",
+      "importance_rank": 93,
+      "page_number": 9
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "centuries, is a UNESCO World Heritage site",
+      "importance_rank": 94,
+      "page_number": 9
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "Romanesque churches in Europe",
+      "importance_rank": 96,
+      "page_number": 9
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "Capitole de Toulouse: The city's town hall and the",
+      "importance_rank": 97,
+      "page_number": 9
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "building with a neoclassical facade",
+      "importance_rank": 99,
+      "page_number": 9
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "Jacobins Convent: This Gothic convent, founded in ",
+      "importance_rank": 100,
+      "page_number": 9
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "beautiful cloister and the relics of Saint Thomas ",
+      "importance_rank": 101,
+      "page_number": 9
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "Cité de l'Espace: This space-themed science museum",
+      "importance_rank": 102,
+      "page_number": 9
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "planetarium, and a replica of the Mir space statio",
+      "importance_rank": 104,
+      "page_number": 9
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "experience for visitors of all ages",
+      "importance_rank": 105,
+      "page_number": 9
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "Airbus Factory Tours: Visit the Airbus factory for",
+      "importance_rank": 106,
+      "page_number": 9
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "world's leading aircraft manufacturers",
+      "importance_rank": 107,
+      "page_number": 9
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "Aeroscopia Museum: Explore the history of aviation",
+      "importance_rank": 108,
+      "page_number": 9
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "features a collection of historic aircraft",
+      "importance_rank": 109,
+      "page_number": 9
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "Toulouse is renowned for its vibrant cultural scen",
+      "importance_rank": 110,
+      "page_number": 9
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "and festivals",
+      "importance_rank": 111,
+      "page_number": 9
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "contemporary art exhibitions and performances",
+      "importance_rank": 112,
+      "page_number": 9
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "specialties such as cassoulet (a hearty bean and m",
+      "importance_rank": 113,
+      "page_number": 9
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "Montpellier: A University City with Medieval Charm",
+      "importance_rank": 115,
+      "page_number": 10
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "Montpellier, founded in the 10th century, is known",
+      "importance_rank": 116,
+      "page_number": 10
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "cultural scene",
+      "importance_rank": 117,
+      "page_number": 10
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "architecture",
+      "importance_rank": 118,
+      "page_number": 10
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "scholars and students from around the world",
+      "importance_rank": 119,
+      "page_number": 10
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "Place de la Comédie: The central square of Montpel",
+      "importance_rank": 120,
+      "page_number": 10
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "surrounded by cafes, shops, and the impressive Opé",
+      "importance_rank": 121,
+      "page_number": 10
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "start exploring the city",
+      "importance_rank": 122,
+      "page_number": 10
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "Saint-Pierre Cathedral: This Gothic cathedral, bui",
+      "importance_rank": 124,
+      "page_number": 10
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "imposing facade and twin towers",
+      "importance_rank": 125,
+      "page_number": 10
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "Promenade du Peyrou: This 17th-century promenade o",
+      "importance_rank": 126,
+      "page_number": 10
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "and features the Arc de Triomphe and the Château d",
+      "importance_rank": 127,
+      "page_number": 10
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "Musée Fabre: One of the most important art museums",
+      "importance_rank": 128,
+      "page_number": 10
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "houses an extensive collection of European paintin",
+      "importance_rank": 130,
+      "page_number": 10
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "University Influence: Highlight the vibrant studen",
+      "importance_rank": 131,
+      "page_number": 10
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "university on the city's culture",
+      "importance_rank": 132,
+      "page_number": 10
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "Modern Architecture: Mention modern architectural ",
+      "importance_rank": 135,
+      "page_number": 10
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "district or the Pierresvives building",
+      "importance_rank": 136,
+      "page_number": 10
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "Montpellier is renowned for its vibrant cultural s",
+      "importance_rank": 137,
+      "page_number": 10
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "and festivals",
+      "importance_rank": 139,
+      "page_number": 10
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "dance companies from around the world",
+      "importance_rank": 140,
+      "page_number": 10
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "specialties such as tielle (a savory pie filled wi",
+      "importance_rank": 141,
+      "page_number": 10
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "Perpignan: A Blend of French and Catalan Cultures",
+      "importance_rank": 142,
+      "page_number": 11
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "Perpignan, located near the Spanish border, has a ",
+      "importance_rank": 144,
+      "page_number": 11
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "influences",
+      "importance_rank": 146,
+      "page_number": 11
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "reflected in its architecture and culture",
+      "importance_rank": 147,
+      "page_number": 11
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "crossroads of cultures and traditions",
+      "importance_rank": 148,
+      "page_number": 11
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "Palace of the Kings of Majorca: This impressive fo",
+      "importance_rank": 149,
+      "page_number": 11
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "the residence of the Kings of Majorca",
+      "importance_rank": 151,
+      "page_number": 11
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "surrounding countryside",
+      "importance_rank": 152,
+      "page_number": 11
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "Perpignan Cathedral: Also known as the Cathedral o",
+      "importance_rank": 153,
+      "page_number": 11
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "Gothic cathedral was built in the 14th century and",
+      "importance_rank": 155,
+      "page_number": 11
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "Castillet: This iconic red-brick gatehouse, built ",
+      "importance_rank": 156,
+      "page_number": 11
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "Perpignan",
+      "importance_rank": 157,
+      "page_number": 11
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "culture of the region",
+      "importance_rank": 158,
+      "page_number": 11
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "Loge de Mer: This historic building, originally a ",
+      "importance_rank": 159,
+      "page_number": 11
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "to the 14th century",
+      "importance_rank": 161,
+      "page_number": 11
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "Perpignan's rich mercantile history",
+      "importance_rank": 162,
+      "page_number": 11
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "Festivals: Emphasize the blend of French and Catal",
+      "importance_rank": 163,
+      "page_number": 11
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "cuisine, and traditions",
+      "importance_rank": 164,
+      "page_number": 11
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "Beaches and Nature: Suggest visiting nearby beache",
+      "importance_rank": 165,
+      "page_number": 11
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "exploring the Pyrenees mountains",
+      "importance_rank": 166,
+      "page_number": 11
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "Perpignan is known for its vibrant cultural scene,",
+      "importance_rank": 167,
+      "page_number": 11
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "traditions",
+      "importance_rank": 168,
+      "page_number": 11
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "various genres",
+      "importance_rank": 169,
+      "page_number": 11
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "(grilled snails) and wines from the Roussillon reg",
+      "importance_rank": 170,
+      "page_number": 11
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "Arles: A Roman Treasure",
+      "importance_rank": 171,
+      "page_number": 12
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "Arles, located on the banks of the Rhône River, is",
+      "importance_rank": 172,
+      "page_number": 12
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "monuments",
+      "importance_rank": 173,
+      "page_number": 12
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "Christian pilgrimage",
+      "importance_rank": 174,
+      "page_number": 12
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "van Gogh and Pablo Picasso",
+      "importance_rank": 175,
+      "page_number": 12
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "Arles Amphitheatre: This Roman amphitheater, built",
+      "importance_rank": 176,
+      "page_number": 12
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "for events such as bullfights and concerts",
+      "importance_rank": 177,
+      "page_number": 12
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "structures in France",
+      "importance_rank": 178,
+      "page_number": 12
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "Church of St",
+      "importance_rank": 179,
+      "page_number": 12
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "for its stunning portal and cloister",
+      "importance_rank": 180,
+      "page_number": 12
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "Santiago de Compostela",
+      "importance_rank": 181,
+      "page_number": 12
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "Alyscamps: This ancient Roman necropolis, located ",
+      "importance_rank": 183,
+      "page_number": 12
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "major burial site in antiquity",
+      "importance_rank": 185,
+      "page_number": 12
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "Thermes de Constantin: These Roman baths, built in",
+      "importance_rank": 186,
+      "page_number": 12
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "testament to the city's importance during the Roma",
+      "importance_rank": 187,
+      "page_number": 12
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "Vincent van Gogh: Include a section on Vincent van",
+      "importance_rank": 188,
+      "page_number": 12
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "locations that inspired his paintings",
+      "importance_rank": 190,
+      "page_number": 12
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "Photography: Recommend visiting during the Rencont",
+      "importance_rank": 191,
+      "page_number": 12
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "for a unique cultural experience",
+      "importance_rank": 192,
+      "page_number": 12
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "Arles is known for its vibrant arts scene, with nu",
+      "importance_rank": 193,
+      "page_number": 12
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "city hosts the Rencontres d'Arles, an internationa",
+      "importance_rank": 196,
+      "page_number": 12
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "and photographers from around the world",
+      "importance_rank": 198,
+      "page_number": 12
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "such as bull meat stew and wines from the surround",
+      "importance_rank": 199,
+      "page_number": 12
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "Carcassonne: A Medieval Fortress",
+      "importance_rank": 200,
+      "page_number": 13
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "Carcassonne is a fortified city in the Languedoc r",
+      "importance_rank": 201,
+      "page_number": 13
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "architecture",
+      "importance_rank": 202,
+      "page_number": 13
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "role in the medieval period as a stronghold during",
+      "importance_rank": 203,
+      "page_number": 13
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "double-walled fortifications and 52 towers make it",
+      "importance_rank": 204,
+      "page_number": 13
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "medieval architecture in Europe",
+      "importance_rank": 208,
+      "page_number": 13
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "Cité de Carcassonne: This medieval fortress is a U",
+      "importance_rank": 209,
+      "page_number": 13
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "of the most impressive examples of medieval archit",
+      "importance_rank": 210,
+      "page_number": 13
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "walls, 52 towers, and a castle",
+      "importance_rank": 211,
+      "page_number": 13
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "Basilica of Saints Nazarius and Celsus: This Gothi",
+      "importance_rank": 214,
+      "page_number": 13
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "within the fortress, dates back to the 11th centur",
+      "importance_rank": 215,
+      "page_number": 13
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "Château Comtal: This castle, located within the Ci",
+      "importance_rank": 216,
+      "page_number": 13
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "insight into the history and architecture of Carca",
+      "importance_rank": 217,
+      "page_number": 13
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "Pont Vieux: This 14th-century bridge connects the ",
+      "importance_rank": 218,
+      "page_number": 13
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "It oﬀers stunning views of the fortress and the su",
+      "importance_rank": 219,
+      "page_number": 13
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "Reenactments: Provide insights into medieval life ",
+      "importance_rank": 220,
+      "page_number": 13
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "reenactments and historical tours",
+      "importance_rank": 222,
+      "page_number": 13
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "Surrounding Area: Suggest exploring the surroundin",
+      "importance_rank": 223,
+      "page_number": 13
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "vineyards and picturesque villages",
+      "importance_rank": 224,
+      "page_number": 13
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "Carcassonne is known for its vibrant cultural scen",
+      "importance_rank": 225,
+      "page_number": 13
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "throughout the year",
+      "importance_rank": 226,
+      "page_number": 13
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "theater, and dance performances in various histori",
+      "importance_rank": 227,
+      "page_number": 13
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "notable, with local specialties such as cassoulet ",
+      "importance_rank": 229,
+      "page_number": 13
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "from the surrounding vineyards",
+      "importance_rank": 231,
+      "page_number": 13
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "The South of France is home to a diverse array of ",
+      "importance_rank": 232,
+      "page_number": 14
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "culture, and attractions",
+      "importance_rank": 233,
+      "page_number": 14
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "fortresses of Carcassonne and Avignon, each city o",
+      "importance_rank": 234,
+      "page_number": 14
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "region",
+      "importance_rank": 236,
+      "page_number": 14
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "Aix-en-Provence, or the charming squares of Montpe",
+      "importance_rank": 237,
+      "page_number": 14
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "treasures and cultural experiences waiting to be d",
+      "importance_rank": 238,
+      "page_number": 14
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "journey through the South of France and immerse yo",
+      "importance_rank": 240,
+      "page_number": 14
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "section_title": "culture of this beautiful region",
+      "importance_rank": 242,
+      "page_number": 14
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "Comprehensive Guide to Major Cities in the South of France",
+      "page_number": 1
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "The South of France, known for its stunning landscapes, Mediterranean coastline, and rich",
+      "page_number": 1
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "cultural heritage, is home to some of the most beautiful and historically significant cities in the",
+      "page_number": 1
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "country. This guide provides an in-depth look at the major cities in the South of France,",
+      "page_number": 1
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "detailing their history, key attractions, cultural highlights, and unique characteristics. Whether",
+      "page_number": 1
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "you're planning a visit or simply want to learn more about this enchanting region, this guide",
+      "page_number": 1
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "will oﬀer valuable insights into each city's charm and allure.",
+      "page_number": 1
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "Overview of the Region",
+      "page_number": 2
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "The South of France, or \"Le Midi,\" encompasses the regions of Provence-Alpes-Côte d'Azur,",
+      "page_number": 2
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "Occitanie, and parts of Nouvelle-Aquitaine. This area is renowned for its diverse landscapes,",
+      "page_number": 2
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "from the sun-drenched beaches of the French Riviera to the rolling vineyards of Provence and",
+      "page_number": 2
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "the rugged Pyrenees mountains. The Mediterranean climate ensures warm summers and",
+      "page_number": 2
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "mild winters, making it a year-round destination. The South of France is also famous for its",
+      "page_number": 2
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "cuisine, wines, and vibrant cultural scene.",
+      "page_number": 2
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "Best Time to Visit : The best time to visit the South of France is during the spring (April",
+      "page_number": 2
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "to June) and fall (September to October) when the weather is pleasant, and the tourist",
+      "page_number": 2
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "Transportation : The region is well-connected by an extensive network of trains,",
+      "page_number": 2
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "buses, and flights. Renting a car is also a great option for exploring the countryside",
+      "page_number": 2
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "Language : While French is the oﬃcial language, English is widely spoken in tourist",
+      "page_number": 2
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "areas. Learning a few basic French phrases can enhance your travel experience.",
+      "page_number": 2
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "Marseille: The Oldest City in France",
+      "page_number": 3
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "Marseille, founded by Greek sailors around 600 BC, is the oldest city in France. Its strategic",
+      "page_number": 3
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "location on the Mediterranean coast made it a vital trading port throughout history. The city's",
+      "page_number": 3
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "rich cultural heritage is reflected in its diverse architecture and vibrant atmosphere. Over the",
+      "page_number": 3
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "centuries, Marseille has been influenced by various cultures, including Greek, Roman, and",
+      "page_number": 3
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "North African, making it a melting pot of traditions and customs.",
+      "page_number": 3
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "Old Port (Vieux-Port) : The heart of Marseille, the Old Port has been a bustling harbor",
+      "page_number": 3
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "for over 2,600 years. Today, it is a lively area filled with cafes, restaurants, and",
+      "page_number": 3
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "Basilica of Notre-Dame de la Garde : This iconic basilica, perched on a hill",
+      "page_number": 3
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "overlooking the city, oﬀers panoramic views of Marseille and the Mediterranean Sea.",
+      "page_number": 3
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "Built in the 19th century, it is a symbol of the city's maritime heritage.",
+      "page_number": 3
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "MuCEM (Museum of European and Mediterranean Civilizations) : This modern",
+      "page_number": 3
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "museum explores the cultural history of the Mediterranean region through a variety of",
+      "page_number": 3
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "exhibits and interactive displays.",
+      "page_number": 3
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "Le Panier : The oldest district in Marseille, Le Panier is a maze of narrow streets,",
+      "page_number": 3
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "colorful buildings, and historic landmarks. It's a great place to explore the city's past",
+      "page_number": 3
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "and enjoy its vibrant culture.",
+      "page_number": 3
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "Boat Trip to the Calanques : Take a boat trip to the Calanques, a series of stunning",
+      "page_number": 3
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "limestone cliﬀs and coves along the coast.",
+      "page_number": 3
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "Fish Market at the Old Port : Visit the fish market at the Old Port to experience the",
+      "page_number": 3
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "local seafood culture.",
+      "page_number": 3
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "Street Art in Cours Julien : Explore the vibrant street art scene in the Cours Julien",
+      "page_number": 3
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "Marseille is known for its vibrant arts scene, with numerous galleries, theaters, and music",
+      "page_number": 3
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "venues. The city hosts several festivals throughout the year, including the Festival de",
+      "page_number": 3
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "Marseille, which celebrates contemporary dance, theater, and music. Marseille's cuisine is",
+      "page_number": 3
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "also a highlight, with dishes like bouillabaisse (a traditional fish stew) and pastis (an anise-",
+      "page_number": 4
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "flavored aperitif) being local favorites.",
+      "page_number": 4
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "Nice: The Jewel of the French Riviera",
+      "page_number": 5
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "Nice, located on the French Riviera, has been a popular destination for centuries. Its history",
+      "page_number": 5
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "dates back to the ancient Greeks, who founded the city around 350 BC. Nice later became a",
+      "page_number": 5
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "Roman colony and has since evolved into a glamorous resort town. In the 19th century, Nice",
+      "page_number": 5
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "became a favorite winter retreat for European aristocrats, which contributed to its",
+      "page_number": 5
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "development as a luxurious destination.",
+      "page_number": 5
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "Promenade des Anglais : This famous seaside promenade, built in the 19th century, is",
+      "page_number": 5
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "perfect for a leisurely stroll along the coast. It oﬀers stunning views of the",
+      "page_number": 5
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "Mediterranean and is lined with cafes and hotels.",
+      "page_number": 5
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "Castle Hill (Colline du Château) : This hilltop park oﬀers panoramic views of Nice and",
+      "page_number": 5
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "the Mediterranean. It was once the site of a medieval castle, which was destroyed in",
+      "page_number": 5
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "Old Town (Vieux Nice) : The historic center of Nice is a labyrinth of narrow streets,",
+      "page_number": 5
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "baroque churches, and bustling markets. Don't miss the Cours Saleya market, where",
+      "page_number": 5
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "you can find fresh produce, flowers, and local delicacies.",
+      "page_number": 5
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "Matisse Museum : Dedicated to the works of Henri Matisse, who spent much of his life",
+      "page_number": 5
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "in Nice, this museum features a comprehensive collection of his paintings, sculptures,",
+      "page_number": 5
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "Russian Orthodox Cathedral : Visit the stunning Russian Orthodox Cathedral, a",
+      "page_number": 5
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "unique architectural gem in Nice.",
+      "page_number": 5
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "Marc Chagall National Museum : Explore the works of Marc Chagall at this dedicated",
+      "page_number": 5
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "Parc Phoenix : Discover the botanical wonders at Parc Phoenix, a beautiful garden and",
+      "page_number": 5
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "Nice is renowned for its vibrant cultural scene, with numerous museums, galleries, and",
+      "page_number": 5
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "theaters. The city hosts the Nice Carnival in February, one of the largest and oldest carnivals",
+      "page_number": 5
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "in the world. The Nice Jazz Festival, held in July, is another major event that attracts music",
+      "page_number": 5
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "lovers from around the globe. Nice's cuisine is also a highlight, with dishes like salade niçoise",
+      "page_number": 6
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "and socca (a chickpea flour pancake) being local specialties.",
+      "page_number": 6
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "Avignon: The City of Popes",
+      "page_number": 7
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "Avignon, located on the banks of the Rhône River, is best known for its role as the seat of the",
+      "page_number": 7
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "papacy in the 14th century. The city was home to seven popes during this period, leaving a",
+      "page_number": 7
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "lasting legacy of impressive architecture and cultural heritage. Avignon's history dates back to",
+      "page_number": 7
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "Roman times, and it has been a significant religious and cultural center for centuries.",
+      "page_number": 7
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "Palais des Papes : This massive Gothic palace was the residence of the popes during",
+      "page_number": 7
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "their stay in Avignon. It is one of the largest and most important medieval Gothic",
+      "page_number": 7
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "Pont Saint-Bénézet (Pont d'Avignon) : This famous bridge, immortalized in the song",
+      "page_number": 7
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "\"Sur le Pont d'Avignon,\" was built in the 12th century. Although only a few arches",
+      "page_number": 7
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "remain, it is a UNESCO World Heritage site.",
+      "page_number": 7
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "Avignon Cathedral : Located next to the Palais des Papes, this Romanesque cathedral",
+      "page_number": 7
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "dates back to the 12th century and features a gilded statue of the Virgin Mary.",
+      "page_number": 7
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "Place de l'Horloge : The main square in Avignon, this lively area is surrounded by",
+      "page_number": 7
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "cafes, restaurants, and historic buildings, including the 19th-century town hall and",
+      "page_number": 7
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "Opéra Grand Avignon : Attend a performance at the Opéra Grand Avignon for a",
+      "page_number": 7
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "Arts Scene : Explore the city's vibrant arts scene, with numerous galleries and",
+      "page_number": 7
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "Avignon is famous for its annual Festival d'Avignon, held in July, which is one of the most",
+      "page_number": 7
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "important contemporary performing arts events in the world. The festival features theater,",
+      "page_number": 7
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "dance, and music performances in various historic venues throughout the city. Avignon's",
+      "page_number": 7
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "cuisine is also notable, with local specialties such as truﬄes, olive oil, and wines from the",
+      "page_number": 7
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "surrounding vineyards.",
+      "page_number": 7
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "Aix-en-Provence: A City of Art and Culture",
+      "page_number": 8
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "Aix-en-Provence, founded by the Romans in 123 BC, is known for its elegant architecture,",
+      "page_number": 8
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "vibrant cultural scene, and association with the painter Paul Cézanne. The city's rich history is",
+      "page_number": 8
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "reflected in its beautiful buildings and lively atmosphere. Aix-en-Provence has been a center",
+      "page_number": 8
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "of art and learning for centuries, attracting artists, writers, and scholars.",
+      "page_number": 8
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "Cours Mirabeau: This grand boulevard, lined with plane trees, cafes, and fountains, is",
+      "page_number": 8
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "the heart of Aix-en-Provence. It is a great place to soak up the city's atmosphere.",
+      "page_number": 8
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "Saint-Sauveur Cathedral: This cathedral, built between the 5th and 17th centuries,",
+      "page_number": 8
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "features a mix of architectural styles, including Romanesque, Gothic, and Baroque. It is",
+      "page_number": 8
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "known for its beautiful cloister and triptych by Nicolas Froment.",
+      "page_number": 8
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "Hôtel de Ville: The town hall of Aix-en-Provence, built in the 17th century, is an elegant",
+      "page_number": 8
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "building with a beautiful clock tower and an ornate facade. The square in front of the",
+      "page_number": 8
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "Hôtel de Ville is a lively spot, often hosting markets and events.",
+      "page_number": 8
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "Atelier Cézanne: The studio of Paul Cézanne, one of the most famous painters",
+      "page_number": 8
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "associated with Aix-en-Provence, is preserved as a museum. Visitors can see where",
+      "page_number": 8
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "Cézanne created many of his masterpieces and gain insight into his artistic process.",
+      "page_number": 8
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "Walking Tour: Take a walking tour of sites related to Paul Cézanne, such as the Terrain",
+      "page_number": 8
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "des Peintres and the Bibémus Quarry.",
+      "page_number": 8
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "Local Markets: Visit the city's famous markets, such as the flower market at Place de",
+      "page_number": 8
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "l'Hôtel de Ville or the food market at Place Richelme.",
+      "page_number": 8
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "Aix-en-Provence is known for its vibrant arts scene, with numerous galleries, theaters, and",
+      "page_number": 8
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "music venues. The city hosts several festivals throughout the year, including the Festival d'Aix-",
+      "page_number": 8
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "en-Provence, which features opera and classical music performances. Aix-en-Provence's",
+      "page_number": 8
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "cuisine is also a highlight, with local specialties such as calissons (almond-shaped candies)",
+      "page_number": 8
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "and Provençal dishes made with fresh, local ingredients.",
+      "page_number": 8
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "Toulouse: The Pink City",
+      "page_number": 9
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "Toulouse, known as \"La Ville Rose\" (The Pink City) due to its distinctive terracotta buildings,",
+      "page_number": 9
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "is a vibrant city with a rich history. It was an important center during the Roman period and",
+      "page_number": 9
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "later became a hub of the aerospace industry. Toulouse has been a center of learning and",
+      "page_number": 9
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "culture for centuries, with a prestigious university and numerous research institutions.",
+      "page_number": 9
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "Basilica of Saint-Sernin: This Romanesque basilica, built between the 11th and 13th",
+      "page_number": 9
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "centuries, is a UNESCO World Heritage site. It is one of the largest and best-preserved",
+      "page_number": 9
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "Romanesque churches in Europe.",
+      "page_number": 9
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "Capitole de Toulouse: The city's town hall and theater, the Capitole, is an impressive",
+      "page_number": 9
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "building with a neoclassical facade. It has been the seat of municipal power since the",
+      "page_number": 9
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "Jacobins Convent: This Gothic convent, founded in the 13th century, is known for its",
+      "page_number": 9
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "beautiful cloister and the relics of Saint Thomas Aquinas.",
+      "page_number": 9
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "Cité de l'Espace: This space-themed science museum features interactive exhibits, a",
+      "page_number": 9
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "planetarium, and a replica of the Mir space station. It's an engaging and educational",
+      "page_number": 9
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "experience for visitors of all ages.",
+      "page_number": 9
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "Airbus Factory Tours: Visit the Airbus factory for a fascinating tour of one of the",
+      "page_number": 9
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "world's leading aircraft manufacturers.",
+      "page_number": 9
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "Aeroscopia Museum: Explore the history of aviation at the Aeroscopia Museum, which",
+      "page_number": 9
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "features a collection of historic aircraft.",
+      "page_number": 9
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "Toulouse is renowned for its vibrant cultural scene, with numerous theaters, music venues,",
+      "page_number": 9
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "and festivals. The city hosts the Toulouse International Art Festival, which features",
+      "page_number": 9
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "contemporary art exhibitions and performances. Toulouse's cuisine is also notable, with local",
+      "page_number": 9
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "specialties such as cassoulet (a hearty bean and meat stew) and foie gras being popular",
+      "page_number": 9
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "Montpellier: A University City with Medieval Charm",
+      "page_number": 10
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "Montpellier, founded in the 10th century, is known for its prestigious university and vibrant",
+      "page_number": 10
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "cultural scene. The city has a rich history, with a blend of medieval, Renaissance, and modern",
+      "page_number": 10
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "architecture. Montpellier has been a center of learning and innovation for centuries, attracting",
+      "page_number": 10
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "scholars and students from around the world.",
+      "page_number": 10
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "Place de la Comédie: The central square of Montpellier, this bustling area is",
+      "page_number": 10
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "surrounded by cafes, shops, and the impressive Opéra Comédie. It is a great place to",
+      "page_number": 10
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "start exploring the city.",
+      "page_number": 10
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "Saint-Pierre Cathedral: This Gothic cathedral, built in the 14th century, is known for its",
+      "page_number": 10
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "imposing facade and twin towers. It is the seat of the Archdiocese of Montpellier.",
+      "page_number": 10
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "Promenade du Peyrou: This 17th-century promenade oﬀers stunning views of the city",
+      "page_number": 10
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "and features the Arc de Triomphe and the Château d'Eau, a beautiful water tower.",
+      "page_number": 10
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "Musée Fabre: One of the most important art museums in France, the Musée Fabre",
+      "page_number": 10
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "houses an extensive collection of European paintings, sculptures, and decorative arts.",
+      "page_number": 10
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "University Influence: Highlight the vibrant student life and the influence of the",
+      "page_number": 10
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "university on the city's culture.",
+      "page_number": 10
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "Modern Architecture: Mention modern architectural landmarks like the Antigone",
+      "page_number": 10
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "district or the Pierresvives building.",
+      "page_number": 10
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "Montpellier is renowned for its vibrant cultural scene, with numerous theaters, music venues,",
+      "page_number": 10
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "and festivals. The city hosts the Montpellier Dance Festival, which attracts contemporary",
+      "page_number": 10
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "dance companies from around the world. Montpellier's cuisine is also notable, with local",
+      "page_number": 10
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "specialties such as tielle (a savory pie filled with octopus) and wines from the surrounding",
+      "page_number": 10
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "Perpignan: A Blend of French and Catalan Cultures",
+      "page_number": 11
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "Perpignan, located near the Spanish border, has a unique blend of French and Catalan",
+      "page_number": 11
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "influences. The city was once the capital of the Kingdom of Majorca and has a rich history",
+      "page_number": 11
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "reflected in its architecture and culture. Perpignan's strategic location has made it a",
+      "page_number": 11
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "crossroads of cultures and traditions.",
+      "page_number": 11
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "Palace of the Kings of Majorca: This impressive fortress, built in the 13th century, was",
+      "page_number": 11
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "the residence of the Kings of Majorca. It oﬀers panoramic views of the city and the",
+      "page_number": 11
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "surrounding countryside.",
+      "page_number": 11
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "Perpignan Cathedral: Also known as the Cathedral of Saint John the Baptist, this",
+      "page_number": 11
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "Gothic cathedral was built in the 14th century and features a beautiful cloister and bell",
+      "page_number": 11
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "Castillet: This iconic red-brick gatehouse, built in the 14th century, is a symbol of",
+      "page_number": 11
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "Perpignan. It now houses the Casa Pairal Museum, which showcases the history and",
+      "page_number": 11
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "culture of the region.",
+      "page_number": 11
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "Loge de Mer: This historic building, originally a maritime trading exchange, dates back",
+      "page_number": 11
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "to the 14th century. It is located in the heart of the old town and is a testament to",
+      "page_number": 11
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "Perpignan's rich mercantile history.",
+      "page_number": 11
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "Festivals: Emphasize the blend of French and Catalan cultures in the city's festivals,",
+      "page_number": 11
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "cuisine, and traditions.",
+      "page_number": 11
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "Beaches and Nature: Suggest visiting nearby beaches like Canet-en-Roussillon or",
+      "page_number": 11
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "exploring the Pyrenees mountains.",
+      "page_number": 11
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "Perpignan is known for its vibrant cultural scene, with a strong emphasis on Catalan",
+      "page_number": 11
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "traditions. The city hosts the Guitares au Palais festival, which celebrates guitar music in",
+      "page_number": 11
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "various genres. Perpignan's cuisine is also notable, with local specialties such as cargolade",
+      "page_number": 11
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "(grilled snails) and wines from the Roussillon region.",
+      "page_number": 11
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "Arles: A Roman Treasure",
+      "page_number": 12
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "Arles, located on the banks of the Rhône River, is renowned for its Roman and Romanesque",
+      "page_number": 12
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "monuments. The city was an important Roman settlement and later became a center of",
+      "page_number": 12
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "Christian pilgrimage. Arles has a rich artistic heritage, having inspired artists such as Vincent",
+      "page_number": 12
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "van Gogh and Pablo Picasso.",
+      "page_number": 12
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "Arles Amphitheatre: This Roman amphitheater, built in the 1st century AD, is still used",
+      "page_number": 12
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "for events such as bullfights and concerts. It is one of the best-preserved Roman",
+      "page_number": 12
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "structures in France.",
+      "page_number": 12
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "Church of St. Trophime: This Romanesque church, built in the 12th century, is known",
+      "page_number": 12
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "for its stunning portal and cloister. It was an important stop on the pilgrimage route to",
+      "page_number": 12
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "Santiago de Compostela.",
+      "page_number": 12
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "Alyscamps: This ancient Roman necropolis, located just outside the city walls, was a",
+      "page_number": 12
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "major burial site in antiquity. It features a long avenue lined with sarcophagi.",
+      "page_number": 12
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "Thermes de Constantin: These Roman baths, built in the 4th century AD, are a",
+      "page_number": 12
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "testament to the city's importance during the Roman period.",
+      "page_number": 12
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "Vincent van Gogh: Include a section on Vincent van Gogh's time in Arles and the",
+      "page_number": 12
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "locations that inspired his paintings.",
+      "page_number": 12
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "Photography: Recommend visiting during the Rencontres d'Arles photography festival",
+      "page_number": 12
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "for a unique cultural experience.",
+      "page_number": 12
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "Arles is known for its vibrant arts scene, with numerous galleries, theaters, and festivals. The",
+      "page_number": 12
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "city hosts the Rencontres d'Arles, an international photography festival that attracts artists",
+      "page_number": 12
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "and photographers from around the world. Arles' cuisine is also notable, with local specialties",
+      "page_number": 12
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "such as bull meat stew and wines from the surrounding vineyards.",
+      "page_number": 12
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "Carcassonne: A Medieval Fortress",
+      "page_number": 13
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "Carcassonne is a fortified city in the Languedoc region, known for its well-preserved medieval",
+      "page_number": 13
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "architecture. The city's history dates back to the Roman period, but it is best known for its",
+      "page_number": 13
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "role in the medieval period as a stronghold during the Albigensian Crusade. Carcassonne's",
+      "page_number": 13
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "double-walled fortifications and 52 towers make it one of the most impressive examples of",
+      "page_number": 13
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "medieval architecture in Europe.",
+      "page_number": 13
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "Cité de Carcassonne: This medieval fortress is a UNESCO World Heritage site and one",
+      "page_number": 13
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "of the most impressive examples of medieval architecture in Europe. It features double",
+      "page_number": 13
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "walls, 52 towers, and a castle.",
+      "page_number": 13
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "Basilica of Saints Nazarius and Celsus: This Gothic-Romanesque basilica, located",
+      "page_number": 13
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "within the fortress, dates back to the 11th century. It is known for its beautiful stained",
+      "page_number": 13
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "Château Comtal: This castle, located within the Cité, oﬀers guided tours that provide",
+      "page_number": 13
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "insight into the history and architecture of Carcassonne.",
+      "page_number": 13
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "Pont Vieux: This 14th-century bridge connects the medieval Cité with the lower town.",
+      "page_number": 13
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "It oﬀers stunning views of the fortress and the surrounding countryside.",
+      "page_number": 13
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "Reenactments: Provide insights into medieval life in Carcassonne, including",
+      "page_number": 13
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "reenactments and historical tours.",
+      "page_number": 13
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "Surrounding Area: Suggest exploring the surrounding Languedoc region, known for its",
+      "page_number": 13
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "vineyards and picturesque villages.",
+      "page_number": 13
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "Carcassonne is known for its vibrant cultural scene, with numerous festivals and events",
+      "page_number": 13
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "throughout the year. The city hosts the Festival de Carcassonne, which features music,",
+      "page_number": 13
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "theater, and dance performances in various historic venues. Carcassonne's cuisine is also",
+      "page_number": 13
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "notable, with local specialties such as cassoulet (a hearty bean and meat stew) and wines",
+      "page_number": 13
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "from the surrounding vineyards.",
+      "page_number": 13
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "The South of France is home to a diverse array of cities, each with its own unique history,",
+      "page_number": 14
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "culture, and attractions. From the ancient Roman ruins of Arles and Nîmes to the medieval",
+      "page_number": 14
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "fortresses of Carcassonne and Avignon, each city oﬀers a glimpse into the rich heritage of the",
+      "page_number": 14
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "region. Whether you're exploring the vibrant streets of Marseille, the elegant boulevards of",
+      "page_number": 14
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "Aix-en-Provence, or the charming squares of Montpellier, you'll find a wealth of historical",
+      "page_number": 14
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "treasures and cultural experiences waiting to be discovered. Use this guide to plan your",
+      "page_number": 14
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "journey through the South of France and immerse yourself in the fascinating history and",
+      "page_number": 14
+    },
+    {
+      "document": "South_of_France_Cities.pdf",
+      "refined_text": "culture of this beautiful region.",
+      "page_number": 14
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "persona": {
+    "role": "travel_agent",
+    "goals": [
+      "help customers plan city tours",
+      "recommend local attractions",
+      "provide destination information"
+    ]
+  },
+  "job_to_be_done": {
+    "task": "Find relevant travel content for customers visiting France",
+    "context": "Customer is interested in exploring cities and popular tourist spots in France"
+  },
+  "documents": [
+    {
+      "filename": "South_of_France_Cities.pdf"
+    }
+  ]
+}

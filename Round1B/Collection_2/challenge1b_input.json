@@ -1,0 +1,30 @@
+{
+  "challenge_info": {
+    "challenge_id": "round_1b_002",
+    "test_case_name": "acrobat_pdf_skills",
+    "description": "Learning and sharing Adobe Acrobat PDF features"
+  },
+  "documents": [
+    { "filename": "Learn Acrobat - Create and Convert_1.pdf", "title": "Create and Convert Part 1" },
+    { "filename": "Learn Acrobat - Create and Convert_2.pdf", "title": "Create and Convert Part 2" },
+    { "filename": "Learn Acrobat - Edit_1.pdf", "title": "Edit Part 1" },
+    { "filename": "Learn Acrobat - Edit_2.pdf", "title": "Edit Part 2" },
+    { "filename": "Learn Acrobat - Export_1.pdf", "title": "Export Part 1" },
+    { "filename": "Learn Acrobat - Export_2.pdf", "title": "Export Part 2" },
+    { "filename": "Learn Acrobat - Fill and Sign.pdf", "title": "Fill and Sign" },
+    { "filename": "Learn Acrobat - Generative AI_1.pdf", "title": "Generative AI Part 1" },
+    { "filename": "Learn Acrobat - Generative AI_2.pdf", "title": "Generative AI Part 2" },
+    { "filename": "Learn Acrobat - Request e-signatures_1.pdf", "title": "Request e-signatures Part 1" },
+    { "filename": "Learn Acrobat - Request e-signatures_2.pdf", "title": "Request e-signatures Part 2" },
+    { "filename": "Learn Acrobat - Share_1.pdf", "title": "Share Part 1" },
+    { "filename": "Learn Acrobat - Share_2.pdf", "title": "Share Part 2" },
+    { "filename": "Test Your Acrobat Exporting Skills.pdf", "title": "Exporting Skills Quiz" },
+    { "filename": "The Ultimate PDF Sharing Checklist.pdf", "title": "PDF Sharing Checklist" }
+  ],
+  "persona": {
+    "role": "Corporate Trainer"
+  },
+  "job_to_be_done": {
+    "task": "Design a one-day workshop on Adobe Acrobat tools and document workflows."
+  }
+}

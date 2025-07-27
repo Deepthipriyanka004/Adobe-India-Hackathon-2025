@@ -1,0 +1,51 @@
+{
+    "challenge_info": {
+        "challenge_id": "round_1b_003",
+        "test_case_name": "meal_planner",
+        "description": "Meal ideas and recipes for a week"
+    },
+    "documents": [
+        {
+            "filename": "Breakfast Ideas.pdf",
+            "title": "Breakfast Ideas"
+        },
+        {
+            "filename": "Lunch Ideas.pdf",
+            "title": "Lunch Ideas"
+        },
+        {
+            "filename": "Dinner Ideas - Mains_1.pdf",
+            "title": "Dinner Ideas - Mains 1"
+        },
+        {
+            "filename": "Dinner Ideas - Mains_2.pdf",
+            "title": "Dinner Ideas - Mains 2"
+        },
+        {
+            "filename": "Dinner Ideas - Mains_3.pdf",
+            "title": "Dinner Ideas - Mains 3"
+        },
+        {
+            "filename": "Dinner Ideas - Sides_1.pdf",
+            "title": "Dinner Ideas - Sides 1"
+        },
+        {
+            "filename": "Dinner Ideas - Sides_2.pdf",
+            "title": "Dinner Ideas - Sides 2"
+        },
+        {
+            "filename": "Dinner Ideas - Sides_3.pdf",
+            "title": "Dinner Ideas - Sides 3"
+        },
+        {
+            "filename": "Dinner Ideas - Sides_4.pdf",
+            "title": "Dinner Ideas - Sides 4"
+        }
+    ],
+    "persona": {
+        "role": "Dietitian"
+    },
+    "job_to_be_done": {
+        "task": "Create a balanced weekly meal plan including breakfast, lunch, and dinner for a health-conscious individual."
+    }
+}
