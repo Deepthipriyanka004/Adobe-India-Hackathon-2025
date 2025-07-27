@@ -1,5 +1,4 @@
-# scripts/extract_sections.py
-import fitz  # PyMuPDF
+import fitz  
 
 def extract_sections_from_pdf(pdf_path):
     doc = fitz.open(pdf_path)

@@ -1,4 +1,3 @@
-# scripts/analyze_collection.py
 import argparse
 import json
 import os
@@ -33,7 +32,7 @@ def main():
     ranked = rank_sections(all_texts, input_data["persona"]["role"], input_data["job_to_be_done"]["task"])
 
     for i, rank in enumerate(ranked):
-        extracted[i]["importance_rank"] = rank + 1  # Rank 1 is highest
+        extracted[i]["importance_rank"] = rank + 1  
 
     output = {
         "metadata": {

@@ -1,4 +1,3 @@
-#!/bin/sh
 
 echo "Running Collection 1..."
 python scripts/analyze_collection.py \
