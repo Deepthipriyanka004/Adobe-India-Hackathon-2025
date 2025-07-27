@@ -82,7 +82,9 @@ We developed a modular, offline-capable pipeline using lightweight NLP tools to:
 ## 👤 Team Info
 
 **Team Name:** Unstoppable  
-**Members:** [Add team members if required]  
+**Members:** Bhogavarapu Deepthi Priyanka
+             Marisetty Jaya Krishna
+             Shanoor Jahan Shaik
 **Round:** 1B  
 **Hackathon:** Adobe India Hackathon – 2025
 
