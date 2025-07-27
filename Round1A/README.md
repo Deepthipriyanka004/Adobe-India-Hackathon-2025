@@ -160,7 +160,14 @@ app/output/sample1.json
 
 ---
 
-## 👤 Author
+## 👤 Team Info
 
-Developed as part of **Adobe Hackathon – Round 1A**  
-**Team:** *Unstoppable*
+**Team Name:** Unstoppable  
+**Members:**
+- Bhogavarapu Deepthi Priyanka  
+- Marisetty Jaya Krishna  
+- Shanoor Jahan Shaik  
+
+**Round:** 1B  
+**Hackathon:** Adobe India Hackathon – 2025
+
