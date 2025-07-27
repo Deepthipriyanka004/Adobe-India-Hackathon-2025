@@ -28,6 +28,7 @@ Or if working independently:
 
 
 cd round1a
+
 🔧 2. Prerequisites
 Make sure the following are installed:
 
