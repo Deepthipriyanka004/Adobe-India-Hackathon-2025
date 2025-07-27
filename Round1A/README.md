@@ -168,6 +168,6 @@ app/output/sample1.json
 - Marisetty Jaya Krishna  
 - Shanoor Jahan Shaik  
 
-**Round:** 1B  
+**Round:** 1A  
 **Hackathon:** Adobe India Hackathon – 2025
 
