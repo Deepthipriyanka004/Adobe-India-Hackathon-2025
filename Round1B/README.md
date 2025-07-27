@@ -29,74 +29,120 @@ It does this **completely offline**, using NLP techniques and semantic similarit
 
 If hosted on GitHub:
 
+```bash
 git clone https://github.com/Deepthipriyanka004/Adobe-India-Hackathon-2025
-cd adobe-hackathon-2025/round1b
-If you're working in isolation, just navigate:
-cd round1b
+cd Adobe-India-Hackathon-2025/round1b
+```
 
-🔧 2. Prerequisites
+If you're working in isolation:
+
+```bash
+cd round1b
+```
+
+---
+
+### 🔧 2. Prerequisites
+
 Make sure the following are installed:
 
-Python 3.10+
+- Python 3.10+
+- pip
+- Docker (for containerized runs)
 
-pip
+---
 
-Docker (for containerized runs)
+### 📦 3. Install Python Dependencies (Optional)
 
-📦 3. Install Python Dependencies (Optional)
-If running locally (without Docker):
-
+```bash
 pip install -r requirements.txt
-📁 4. Prepare Input Files
-All inputs must be placed under the input/ folder:
+```
 
+---
 
+### 📁 4. Prepare Input Files
+
+All inputs must be placed under the `input/` folder:
+
+```
 input/
-├── persona.json               # Describes user's role and domain
-├── job_to_be_done.json        # Describes the task the user wants to perform
-└── documents/                 # Folder with 3–10 PDF files
-✅ Sample persona.json
-json
+├── persona.json
+├── job_to_be_done.json
+└── documents/
+    ├── doc1.pdf
+    ├── doc2.pdf
+    └── ...
+```
 
+#### ✅ Sample `persona.json`
+
+```json
 {
   "role": "PhD Researcher",
   "domain": "Computational Biology",
   "focus": "Drug Discovery"
 }
-✅ Sample job_to_be_done.json
-json
+```
 
+#### ✅ Sample `job_to_be_done.json`
+
+```json
 {
   "task": "Perform a literature review on Graph Neural Networks for Drug Discovery"
 }
-🧪 5. Run Locally (Optional)
+```
 
+---
+
+### 🧪 5. Run Locally (Optional)
+
+```bash
 python analyze_collection.py
+```
+
 The results will be saved to:
 
+```
 output/final_output.json
-🐳 6. Run with Docker (Preferred for Submission)
-Step 1: Build Docker Image
+```
 
+---
+
+### 🐳 6. Run with Docker (Preferred for Submission)
+
+#### Step 1: Build Docker Image
+
+```bash
 docker build --platform linux/amd64 -t round1b_solution .
-Step 2: Run Docker Container
-🐧 macOS/Linux:
+```
 
+#### Step 2: Run Docker Container
+
+##### 🐧 On macOS/Linux:
+
+```bash
 docker run --rm \
 -v "$(pwd)/input:/app/input" \
 -v "$(pwd)/output:/app/output" \
 --network none round1b_solution
-🪟 Windows CMD:
+```
 
+##### 🪟 On Windows CMD:
+
+```bash
 docker run --rm ^
 -v "%cd%\input:/app/input" ^
 -v "%cd%\output:/app/output" ^
 --network none round1b_solution
-📤 7. Output Format
-A file final_output.json will be generated in the output/ folder:
+```
 
-json
+---
 
+### 📤 7. Output Format
+
+The following JSON will be generated in `output/final_output.json`:
+
+```json
 {
   "metadata": {
     "documents": ["paper1.pdf", "paper2.pdf"],
@@ -121,23 +167,32 @@ json
     }
   ]
 }
-✅ Summary
-Feature	Status
-Offline Execution	✅ Supported
-CPU-Only	✅ Supported
-≤ 1GB Model Size	✅ Compliant
-Docker Compatible (amd64)	✅ Yes
-Internet/API Free	✅ Enforced
+```
 
-📦 Tech Stack
-PyMuPDF – PDF text extraction
+---
 
-sentence-transformers – Semantic similarity between user intent and document text
+### ✅ Summary
 
-scikit-learn – Ranking relevant content
+| Feature                     | Status         |
+|-----------------------------|----------------|
+| Offline Execution           | ✅ Supported    |
+| CPU-Only                    | ✅ Supported    |
+| ≤ 1GB Model Size            | ✅ Compliant    |
+| Docker Compatible (`amd64`) | ✅ Yes          |
+| Internet/API Free           | ✅ Enforced     |
 
-datetime, json, os, re – Core utilities
+---
 
-👤 Author
-Developed as part of Adobe Hackathon – Round 1B
-Team: ["Unstoppable"]
+## 📦 Tech Stack
+
+- **PyMuPDF** – PDF text extraction
+- **sentence-transformers** – Semantic similarity
+- **scikit-learn** – Ranking relevant content
+- **datetime, json, os, re** – Core utilities
+
+---
+
+## 👤 Author
+
+Developed as part of **Adobe Hackathon – Round 1B**  
+**Team:** *Unstoppable*
