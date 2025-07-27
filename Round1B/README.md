@@ -14,10 +14,10 @@ This solution is designed to **analyze a collection of PDF documents** and intel
 > A *PhD researcher* in *Computational Biology* wants to perform a *literature review on Graph Neural Networks for Drug Discovery*.  
 > This tool will scan a collection of research PDFs and extract key sections that are **relevant, ranked, and summarized**.
 
-It does this **completely offline**, using NLP techniques and semantic similarity models to:
-- Understand the **intent of the user**
-- Match it with relevant content inside each document
-- Generate a **ranked, structured JSON** output
+It runs **fully offline**, using NLP and semantic techniques to:
+- Understand the **user’s goal and intent**
+- Analyze PDF contents for meaning
+- Generate a **ranked, structured JSON** result
 
 ---
 
@@ -25,122 +25,80 @@ It does this **completely offline**, using NLP techniques and semantic similarit
 
 ---
 
-### 📥 1. Clone the Repository (or Copy This Folder)
-
-If hosted on GitHub:
+### 📥 1. Clone the Repository
 
 ```bash
 git clone https://github.com/Deepthipriyanka004/Adobe-India-Hackathon-2025
-cd Adobe-India-Hackathon-2025/round1b
-```
-
-If you're working in isolation:
-
-```bash
-cd round1b
+cd Adobe-India-Hackathon-2025/Round1B
 ```
 
 ---
 
 ### 🔧 2. Prerequisites
 
-Make sure the following are installed:
+Ensure the following are installed:
 
 - Python 3.10+
 - pip
-- Docker (for containerized runs)
+- Docker (for offline containerized use)
 
 ---
 
-### 📦 3. Install Python Dependencies (Optional)
+### 📁 3. Folder Structure
+
+```
+Round1B/
+├── pdfs/                   # Contains all PDF files
+├── Collection_1/
+│   ├── input.json          # Contains persona + job
+│   └── output.json         # Your system-generated results
+├── Collection_2/
+├── Collection_3/
+├── scripts/                # Python scripts
+├── Dockerfile
+├── requirements.txt
+├── README.md
+└── approach_explanation.md
+```
+
+---
+
+### 🧪 4. Run Locally (Optional)
 
 ```bash
-pip install -r requirements.txt
+python scripts/analyze_collection.py --pdf_dir ./pdfs --input ./Collection_1/input.json --output ./Collection_1/output.json
 ```
+
+Repeat for Collection_2 and Collection_3 by changing paths.
 
 ---
 
-### 📁 4. Prepare Input Files
+### 🐳 5. Run with Docker (Preferred)
 
-All inputs must be placed under the `input/` folder:
-
-```
-input/
-├── persona.json
-├── job_to_be_done.json
-└── documents/
-    ├── doc1.pdf
-    ├── doc2.pdf
-    └── ...
-```
-
-#### ✅ Sample `persona.json`
-
-```json
-{
-  "role": "PhD Researcher",
-  "domain": "Computational Biology",
-  "focus": "Drug Discovery"
-}
-```
-
-#### ✅ Sample `job_to_be_done.json`
-
-```json
-{
-  "task": "Perform a literature review on Graph Neural Networks for Drug Discovery"
-}
-```
-
----
-
-### 🧪 5. Run Locally (Optional)
-
-```bash
-python analyze_collection.py
-```
-
-The results will be saved to:
-
-```
-output/final_output.json
-```
-
----
-
-### 🐳 6. Run with Docker (Preferred for Submission)
-
-#### Step 1: Build Docker Image
+#### 🛠️ Build Docker Image
 
 ```bash
 docker build --platform linux/amd64 -t round1b_solution .
 ```
 
-#### Step 2: Run Docker Container
-
-##### 🐧 On macOS/Linux:
+#### ▶️ Run for a Collection (macOS/Linux)
 
 ```bash
-docker run --rm \
--v "$(pwd)/input:/app/input" \
--v "$(pwd)/output:/app/output" \
---network none round1b_solution
+docker run --rm -v "$(pwd)/pdfs:/app/pdfs" -v "$(pwd)/Collection_1:/app/collection" --network none round1b_solution
 ```
 
-##### 🪟 On Windows CMD:
+#### ▶️ Run for a Collection (Windows CMD)
 
 ```bash
 docker run --rm ^
--v "%cd%\input:/app/input" ^
--v "%cd%\output:/app/output" ^
+-v "%cd%\pdfs:/app/pdfs" ^
+-v "%cd%\Collection_1:/app/collection" ^
 --network none round1b_solution
 ```
 
 ---
 
-### 📤 7. Output Format
-
-The following JSON will be generated in `output/final_output.json`:
+### 📤 Output Format (output.json)
 
 ```json
 {
@@ -171,7 +129,7 @@ The following JSON will be generated in `output/final_output.json`:
 
 ---
 
-### ✅ Summary
+## ✅ Summary
 
 | Feature                     | Status         |
 |-----------------------------|----------------|
@@ -185,14 +143,20 @@ The following JSON will be generated in `output/final_output.json`:
 
 ## 📦 Tech Stack
 
-- **PyMuPDF** – PDF text extraction
-- **sentence-transformers** – Semantic similarity
-- **scikit-learn** – Ranking relevant content
+- **PyMuPDF** – PDF parsing
+- **sentence-transformers** – Semantic vector embedding
+- **scikit-learn** – Ranking based on cosine similarity
 - **datetime, json, os, re** – Core utilities
 
 ---
 
-## 👤 Author
+## 👤 Team Info
 
-Developed as part of **Adobe Hackathon – Round 1B**  
-**Team:** *Unstoppable*
+**Team Name:** Unstoppable  
+**Members:**
+- Bhogavarapu Deepthi Priyanka  
+- Marisetty Jaya Krishna  
+- Shanoor Jahan Shaik  
+
+**Round:** 1B  
+**Hackathon:** Adobe India Hackathon – 2025
